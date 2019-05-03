@@ -15,7 +15,7 @@ import (
 
 	"github.com/hawry/events-are-square/event"
 
-	"comail.io/go/colog"
+	"github.com/comail/colog"
 )
 
 //Website is a shorthand for the map[string]interface{}
